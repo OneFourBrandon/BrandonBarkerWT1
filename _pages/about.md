@@ -43,8 +43,7 @@ As I iterated earlier, my role primarily involved help desk support, where I ass
 <img src="images/phone_at_desk.jpg"
 alt="Photo of me sitting at my desk on the phone"
 width="300"
-style="margin-right:20px;"
-style="border-radius:15px;"
+style="margin-right:20px;border-radius:15px;"
 align="left"/>
 </p> 
 
