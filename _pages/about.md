@@ -19,7 +19,7 @@ This page highlights what I accomplished, what I learned, and how this experienc
 <img src="images/help_centre.jpg"
 alt="University of Guelph Help Centre"
 width="280"
-style="margin-left:20px;"
+style="margin-left:20px;border-radius:10px;"
 align="right"/>
 </p>
 
@@ -42,8 +42,8 @@ As I iterated earlier, my role primarily involved help desk support, where I ass
 <p>
 <img src="images/phone_at_desk.jpg"
 alt="Photo of me sitting at my desk on the phone"
-width="300"
-style="margin-right:20px;border-radius:15px;"
+width="350"
+style="margin-right:40px;border-radius:10px;margin-bottom: 20px;"
 align="left"/>
 </p> 
 
@@ -61,7 +61,7 @@ Over the course of the summer I successfully completed over 1600 tickets, which 
 <img src="images/tickets.png"
 alt="Screenshot of tickets I completed"
 width="300"
-style="margin-left:20px;"
+style="margin-left:20px;border-radius:10px;"
 align="right"/>
 </p> 
 This volume of work gave me significant practice in troubleshooting a wide range of technical issues. I learned how important it is to ask the right clarification questions early, as it often saved time for both myself and the client, and I built confidence that I was genuinely helping people and not just pushing tasks forward. This process strengthened my problem-solving abilities and helped me develop a systematic approach to handling technical challenges efficiently, evident by the sheer amount of tickets I was able to complete over just one summer.
@@ -101,12 +101,12 @@ I also noticed that even when clients started out frustrated, taking the time to
 - Apply this understanding to broader business contexts.  
   **Measure of Success:** Successfully assign tickets across multiple departments and spread workload effectively.  
 ### **Reflection:**
-<p align="left">
+<p>
 <img src="images/managed_desktops.jpg"
 alt="Picture of a room from another department in CCS (Managed Desktops)"
 width="280"
 align="left" 
-style="margin-right:20px;" />
+style="margin-right:20px;border-radius:10px;" />
 </p>
 During my work term, I gained a much clearer understanding of how the IT department at CCS operates as a whole. By managing and assigning tickets, I was able to see which issues belonged to which teams and how different groups worked together to resolve problems. This gave me insight into the specialized roles within CCS, such as Managed Desktops, Networking, and Information Security, and how each contributes to keeping the university’s systems running smoothly.  
 
@@ -126,7 +126,7 @@ This experience also helped me recognize the importance of efficient ticket assi
 alt="Me helping clients at the help desk"
 width="250"
 align="right"
-style="margin-left:20px;"/>
+style="margin-left:20px;border-radius:10px;"/>
 </p>
 
 **Action Plan:**
