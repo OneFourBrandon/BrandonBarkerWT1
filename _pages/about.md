@@ -15,18 +15,11 @@ This page highlights what I accomplished, what I learned, and how this experienc
 ## Information About the Employer
 **Computing & Communications Services (CCS)** is the central IT department at the University of Guelph. CCS provides a wide range of technology services that support students, faculty, and staff, including:
 
-<p align="left">
-- Campus-wide networking and Wi-Fi infrastructure
-- Email and collaboration tools
-- Information security and identity management
-- Enterprise systems for teaching, research, and administration
-- IT support through the help desk and technical services 
 
 <img src="images/help_centre.jpg"
 alt="University of Guelph Help Centre"
 width="350"
 align="right" />
-</p>
 
 
 - Campus-wide networking and Wi-Fi infrastructure
@@ -48,7 +41,7 @@ At the start of my work term, I set several goals to guide my learning and growt
 ---
 
 ### Learning Goal 1
-**Category:** Critical & Creative Thinking – Problem Solving  
+**Category:** Critical & Creative Thinking – Problem-Solving  
 **Goal:** Help students and faculty solve problems.  
 **Action Plan:**
 - Ask clarification questions about each problem.
