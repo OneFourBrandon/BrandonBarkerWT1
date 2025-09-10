@@ -34,13 +34,11 @@ As I iterated earlier, my role primarily involved help desk support, where I ass
 
 ---
 
-## Goals
-
-At the start of my work term, I set several goals to guide my learning and growth. These goals connected directly to both my technical role and my personal development.
+# Goals
 
 ---
 
-### Learning Goal 1
+## Learning Goal 1
 **Category:** Critical & Creative Thinking – Problem-Solving  
 **Goal:** Help students and faculty solve problems.  
 **Action Plan:**
@@ -55,7 +53,7 @@ Over the course of the summer I successfully completed over 1600 tickets, which 
 
 ---
 
-### Learning Goal 2
+## Learning Goal 2
 **Category:** Global Understanding  
 **Goal:** Learn to understand people better.  
 **Action Plan:**
@@ -78,7 +76,7 @@ I also noticed that even when clients started out frustrated, taking the time to
 ---
 
 
-### Learning Goal 3
+## Learning Goal 3
 **Category:** Literacy – Technological Literacy  
 **Goal:** Learn more about the functions of a functional IT department.  
 **Action Plan:**
@@ -99,7 +97,7 @@ align="right" />
 ---
 
 
-### Learning Goal 4
+## Learning Goal 4
 **Category:** Global Understanding – Civic Knowledge & Engagement  
 **Goal:** Learn how to work and develop relationships with people of other cultures.  
 **Action Plan:**
@@ -108,7 +106,12 @@ align="right" />
   **Measure of Success:** Maintain good friendships with coworkers after the work term ends.  
 
 ### **Reflection:**
-[Insert your reflection here.]
+<p align="left">
+<img src="images/help_desk.jpg"
+alt="Picture of a room from another department in CCS (Managed Desktops)"
+width="200"
+align="right" />
+</p>
 
 ---
 
@@ -130,7 +133,7 @@ Some of these skills I had already gained in coursework (e.g., networking and sy
 ---
 
 ## Conclusions
-My work term at CCS was an excellent opportunity to apply classroom knowledge in a real-world setting. I learned not only technical skills but also how to communicate effectively in a professional IT environment.  
+My work term at CCS was an excellent opportunity to apply classroom knowledge such as AHW's operating systems course in a real-world setting. I learned not only technical skills but also how to communicate effectively in a professional IT environment.  
 If someone were to summarize my experience, I would want them to say:  
 *“This work term gave me hands-on IT support experience, strengthened my technical and professional skills, and helped me grow toward my future career in computing.”*
 
