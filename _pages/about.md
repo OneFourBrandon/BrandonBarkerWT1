@@ -38,6 +38,16 @@ As I iterated earlier, my role primarily involved help desk support, where I ass
 ---
 
 ## Learning Goal 1
+
+<p>
+<img src="images/phone_at_desk.jpg"
+alt="Photo of me sitting at my desk on the phone"
+width="300"
+style="margin-right:20px;"
+style="border-radius:15px;"
+align="left"/>
+</p> 
+
 **Category:** Critical & Creative Thinking – Problem-Solving  
 **Goal:** Help students and faculty solve problems.  
 **Action Plan:**
