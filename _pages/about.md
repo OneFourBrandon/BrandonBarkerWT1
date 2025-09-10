@@ -106,6 +106,12 @@ This experience also helped me recognize the importance of efficient ticket assi
 
 ---
 
+
+## Learning Goal 4
+
+**Category:** Global Understanding – Civic Knowledge & Engagement  
+**Goal:** Learn how to work and develop relationships with people of other cultures.  
+
 <p>
 <img src="images/help_desk.jpg"
 alt="Me helping clients at the help desk"
@@ -113,12 +119,6 @@ width="250"
 align="right"
 style="margin-left:20px;"/>
 </p>
-
-## Learning Goal 4
-
-**Category:** Global Understanding – Civic Knowledge & Engagement  
-**Goal:** Learn how to work and develop relationships with people of other cultures.  
-
 
 **Action Plan:**
 - Connect with colleagues from diverse backgrounds.
