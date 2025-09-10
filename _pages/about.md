@@ -25,7 +25,7 @@ This page highlights what I accomplished, what I learned, and how this experienc
 
 <img src="images/help_centre.jpg"
 alt="University of Guelph Help Centre"
-width="200"
+width="600"
 align="right" />
 </p>
 
