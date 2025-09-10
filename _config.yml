@@ -24,9 +24,9 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Brandon Barker"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "North Bay, Ontario, Canada"
+  pronouns         : "he/him"
+  bio              : "Computer Science (Co-op) @ University of Guelph"
+  location         : "Born: North Bay, Ontario, Canada"
   employer         : "University of Guelph"
   uri              : # URL
   email            : "bbarke04@uoguelph.ca"
