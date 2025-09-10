@@ -15,12 +15,13 @@ This page highlights what I accomplished, what I learned, and how this experienc
 ## Information About the Employer
 **Computing & Communications Services (CCS)** is the central IT department at the University of Guelph. CCS provides a wide range of technology services that support students, faculty, and staff, including:
 
-
+<p>
 <img src="images/help_centre.jpg"
 alt="University of Guelph Help Centre"
-width="350"
-align="right" />
-
+width="280"
+style="margin-left:20px;"
+align="right"/>
+</p>
 
 - Campus-wide networking and Wi-Fi infrastructure
 - Email and collaboration tools
@@ -28,9 +29,7 @@ align="right" />
 - Enterprise systems for teaching, research, and administration
 - IT support through the help desk and technical services
 
-As I iterated earlier, my role primarily involved help desk support, where I assisted users with technical issues and assigned teams to aid with various systems CCS manages.
-
-
+As I iterated earlier, my role primarily involved help desk support, where I assisted users with technical issues and assigned teams to aid with various systems CCS manages. Other teams are more specialized, such as Managed Desktops, who works with physical hardware for their clients. Some more include Networking, who manages the university's network infrastructure, and Information Security, who ensures the safety of the university's data and systems.
 
 ---
 
@@ -48,7 +47,15 @@ As I iterated earlier, my role primarily involved help desk support, where I ass
   **Measure of Success:** Number of tickets successfully completed (tracked in the work system).  
 
 ### **Reflection:**
-Over the course of the summer I successfully completed over 1600 tickets, which does not count the tickets I assigned to other teams, or the phone calls I completed. This ***Placeholder image for stats*** ### This volume of work gave me significant practice in troubleshooting a wide range of technical issues. I learned how important it is to ask the right clarification questions early, as it often saved time for both myself and the client, and I built confidence that I was genuinely helping people and not just pushing tasks forward. This process strengthened my problem-solving abilities and helped me develop a systematic approach to handling technical challenges efficiently, evident by the sheer amount of tickets I was able to complete over just one summer.
+Over the course of the summer I successfully completed over 1600 tickets, which does not count the tickets I assigned to other teams, or the phone calls I completed. 
+<p>
+<img src="images/tickets.png"
+alt="Screenshot of tickets I completed"
+width="300"
+style="margin-left:20px;"
+align="right"/>
+</p> 
+This volume of work gave me significant practice in troubleshooting a wide range of technical issues. I learned how important it is to ask the right clarification questions early, as it often saved time for both myself and the client, and I built confidence that I was genuinely helping people and not just pushing tasks forward. This process strengthened my problem-solving abilities and helped me develop a systematic approach to handling technical challenges efficiently, evident by the sheer amount of tickets I was able to complete over just one summer.
 
 
 ---
@@ -64,13 +71,13 @@ Over the course of the summer I successfully completed over 1600 tickets, which 
 
 ### **Reflection:**
 <p align="left">
-Over the summer, I was made aware of at least 4 positive surveys from clients I assisted. These surveys highlighted that my patience, friendliness, and willingness to listen left a positive impression on users.
-
 <img src="images/Gold_star.png"
 alt="Screenshot of positive customer surveys"
 width="300"
 align="right" />
 </p>
+Over the summer, I was made aware of at least 4 positive surveys from clients I assisted. These surveys highlighted that my patience, friendliness, and willingness to listen left a positive impression on users.
+
 I also noticed that even when clients started out frustrated, taking the time to calmly explain solutions and reassure them often turned the interaction around - especially with retirees. Working with people from diverse backgrounds, both over the phone and in person, helped me practice empathy and made me better at supporting clients. Overall, I learned that kindness and patience are just as important as technical skills in providing effective IT support.
 
 ---
@@ -86,32 +93,40 @@ I also noticed that even when clients started out frustrated, taking the time to
   **Measure of Success:** Successfully assign tickets across multiple departments and spread workload effectively.  
 ### **Reflection:**
 <p align="left">
-
-
 <img src="images/managed_desktops.jpg"
 alt="Picture of a room from another department in CCS (Managed Desktops)"
-width="350"
-align="right" />
+width="280"
+align="left" 
+style="margin-right:20px;" />
 </p>
+During my work term, I gained a much clearer understanding of how the IT department at CCS operates as a whole. By managing and assigning tickets, I was able to see which issues belonged to which teams and how different groups worked together to resolve problems. This gave me insight into the specialized roles within CCS, such as Managed Desktops, Networking, and Information Security, and how each contributes to keeping the university’s systems running smoothly.  
+
+This experience also helped me recognize the importance of efficient ticket assignment—not only for ensuring problems reach the right team quickly but also for balancing workloads across the department. By observing these processes, I developed a stronger appreciation for the complexity of an enterprise-level IT environment and how those practices can apply to businesses beyond the university.
+
 
 ---
 
+<p>
+<img src="images/help_desk.jpg"
+alt="Me helping clients at the help desk"
+width="250"
+align="right"
+style="margin-left:20px;"/>
+</p>
 
 ## Learning Goal 4
+
 **Category:** Global Understanding – Civic Knowledge & Engagement  
 **Goal:** Learn how to work and develop relationships with people of other cultures.  
+
+
 **Action Plan:**
 - Connect with colleagues from diverse backgrounds.
 - Put effort into building meaningful relationships with team members.  
   **Measure of Success:** Maintain good friendships with coworkers after the work term ends.  
 
 ### **Reflection:**
-<p align="left">
-<img src="images/help_desk.jpg"
-alt="Picture of a room from another department in CCS (Managed Desktops)"
-width="200"
-align="right" />
-</p>
+During my time at CCS, I had the opportunity to work with colleagues from various cultural backgrounds. I made a conscious effort to connect with them, learning about their experiences and perspectives. This not only enriched my understanding of different cultures but also helped me build meaningful relationships within the team. By engaging in conversations and participating in team activities, I was able to foster a sense of camaraderie
 
 ---
 
@@ -140,5 +155,4 @@ If someone were to summarize my experience, I would want them to say:
 ---
 
 ## Acknowledgments
-I would like to thank my supervisors and colleagues at CCS for their guidance and support. Their mentorship provided me with valuable insights into both technical problem-solving and teamwork in a professional IT setting.
-
+I would like to thank specifically my supervisor Jill Hogg for being the most patient and helpful guide an employee can have, always answering our questions no matter the amount of times asked and the stupidity of the question, to ensure make sure we do our jobs well.
