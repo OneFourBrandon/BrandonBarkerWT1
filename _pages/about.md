@@ -126,7 +126,7 @@ This experience also helped me recognize the importance of efficient ticket assi
 alt="Me helping clients at the help desk"
 width="250"
 align="right"
-style="margin-left:20px;border-radius:10px;"/>
+style="margin-left:20px;border-radius:10px;margin-bottom: 20px;"/>
 </p>
 
 **Action Plan:**
