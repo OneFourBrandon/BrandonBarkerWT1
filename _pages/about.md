@@ -42,7 +42,7 @@ As I iterated earlier, my role primarily involved help desk support, where I ass
 <p>
 <img src="images/phone_at_desk.jpg"
 alt="Photo of me sitting at my desk on the phone"
-width="350"
+width="250"
 style="margin-right:40px;border-radius:10px;margin-bottom: 20px;"
 align="left"/>
 </p> 
