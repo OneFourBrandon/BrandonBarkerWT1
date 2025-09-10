@@ -16,7 +16,6 @@ This page highlights what I accomplished, what I learned, and how this experienc
 **Computing & Communications Services (CCS)** is the central IT department at the University of Guelph. CCS provides a wide range of technology services that support students, faculty, and staff, including:
 
 <p align="left">
-
 - Campus-wide networking and Wi-Fi infrastructure
 - Email and collaboration tools
 - Information security and identity management
@@ -25,7 +24,7 @@ This page highlights what I accomplished, what I learned, and how this experienc
 
 <img src="images/help_centre.jpg"
 alt="University of Guelph Help Centre"
-width="600"
+width="350"
 align="right" />
 </p>
 
@@ -58,7 +57,8 @@ At the start of my work term, I set several goals to guide my learning and growt
   **Measure of Success:** Number of tickets successfully completed (tracked in the work system).  
 
 ### **Reflection:**
-[Insert your reflection here.]
+Over the course of the summer I successfully completed over 1600 tickets, which does not count the tickets I assigned to other teams, or the phone calls I completed. This ***Placeholder image for stats*** ### This volume of work gave me significant practice in troubleshooting a wide range of technical issues. I learned how important it is to ask the right clarification questions early, as it often saved time for both myself and the client, and I built confidence that I was genuinely helping people and not just pushing tasks forward. This process strengthened my problem-solving abilities and helped me develop a systematic approach to handling technical challenges efficiently, evident by the sheer amount of tickets I was able to complete over just one summer.
+
 
 ---
 
@@ -72,7 +72,15 @@ At the start of my work term, I set several goals to guide my learning and growt
   **Measure of Success:** Client satisfaction (if the person leaves the interaction calm and not frustrated, I consider it a success).  
 
 ### **Reflection:**
-[Insert your reflection here.]
+<p align="left">
+Over the summer, I was made aware of at least 4 positive surveys from clients I assisted. These surveys highlighted that my patience, friendliness, and willingness to listen left a positive impression on users.
+
+<img src="images/Gold_star.png"
+alt="Screenshot of positive customer surveys"
+width="300"
+align="right" />
+</p>
+I also noticed that even when clients started out frustrated, taking the time to calmly explain solutions and reassure them often turned the interaction around - especially with retirees. Working with people from diverse backgrounds, both over the phone and in person, helped me practice empathy and made me better at supporting clients. Overall, I learned that kindness and patience are just as important as technical skills in providing effective IT support.
 
 ---
 
@@ -86,7 +94,14 @@ At the start of my work term, I set several goals to guide my learning and growt
 - Apply this understanding to broader business contexts.  
   **Measure of Success:** Successfully assign tickets across multiple departments and spread workload effectively.  
 ### **Reflection:**
-[Insert your reflection here.]
+<p align="left">
+
+
+<img src="images/managed_desktops.jpg"
+alt="Picture of a room from another department in CCS (Managed Desktops)"
+width="350"
+align="right" />
+</p>
 
 ---
 
