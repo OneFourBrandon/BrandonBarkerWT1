@@ -110,9 +110,9 @@ width="280"
 align="left" 
 style="margin-right:20px;border-radius:10px;" />
 </p>
-During my work term, I gained a much clearer understanding of how the IT department at CCS operates as a whole. By managing and assigning tickets, I was able to see which issues belonged to which teams and how different groups worked together to resolve problems. This gave me insight into the specialized roles within CCS, such as Managed Desktops, Networking, and Information Security, and how each contributes to keeping the university’s systems running smoothly.  
+During my work term, I gained a much clearer understanding of how the IT department at CCS operates as a whole. By managing and assigning tickets, I was able to see which issues belonged to which teams and how different groups worked together to resolve problems. This gave me insight into the specialized roles within CCS, such as Managed Desktops, Networking, and Information Security, and how each contributes to keeping the University as a whole from crashing and burning.
 
-This experience also helped me recognize the importance of efficient ticket assignment—not only for ensuring problems reach the right team quickly but also for balancing workloads across the department. By observing these processes, I developed a stronger appreciation for the complexity of an enterprise-level IT environment and how those practices can apply to businesses beyond the university.
+This experience also helped me see the difference efficient ticket assignment makes, not only for ensuring problems reach the right team quickly, but also for balancing workloads across the department so, for example, one team wouldn't have to answer every question. By basically becoming this process, I developed a stronger appreciation for the nature of a massive IT environment and how those practices can apply to businesses beyond the university.
 
 
 ---
@@ -137,7 +137,7 @@ style="margin-left:20px;border-radius:10px;margin-bottom: 20px;"/>
   **Measure of Success:** Maintain good friendships with coworkers after the work term ends.  
 
 ### **Reflection:**
-During my time at CCS, I had the opportunity to work with colleagues from various cultural backgrounds. I made a conscious effort to connect with them, learning about their experiences and perspectives. This not only enriched my understanding of different cultures but also helped me build meaningful relationships within the team. By engaging in conversations and participating in team activities, I was able to foster a sense of camaraderie
+During my time at CCS, I had the opportunity to work with colleagues from various cultural backgrounds, I was able to connect with them, learning about their experiences and perspectives. This not only enriched my understanding of different cultures but also helped me build meaningful relationships within the team. By engaging in conversations and participating in team activities, I was able to feel right at home with my coworkers throughout the work term, and I am confident this will remain the same way going into the second work term. Overall, this experience taught me the value of diversity in the workplace and how it can enhance collaboration and teamwork.
 
 ---
 
@@ -161,7 +161,7 @@ Some of these skills I had already gained in coursework (e.g., networking and sy
 ## Conclusions
 My work term at CCS was an excellent opportunity to apply classroom knowledge such as AHW's operating systems course in a real-world setting. I learned not only technical skills but also how to communicate effectively in a professional IT environment.  
 If someone were to summarize my experience, I would want them to say:  
-*“This work term gave me hands-on IT support experience, strengthened my technical and professional skills, and helped me grow toward my future career in computing.”*
+*“This work term gave me hands-on IT support experience, strengthened my technical and professional skills, and helped me grow as a person to see my preferences toward my future career in computing.”*
 
 ---
 
