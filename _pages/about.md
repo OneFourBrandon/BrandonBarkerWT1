@@ -42,7 +42,7 @@ As I iterated earlier, my role primarily involved help desk support, where I ass
 <p>
 <img src="images/phone_at_desk.jpg"
 alt="Photo of me sitting at my desk on the phone"
-width="250"
+width="350"
 style="margin-right:40px;border-radius:10px;margin-bottom: 20px;"
 align="left"/>
 </p> 
@@ -53,7 +53,9 @@ align="left"/>
 - Ask clarification questions about each problem.
 - Ensure the client’s issue is fully solved.
 - Confirm the problem is completed before closing the ticket.  
-  **Measure of Success:** Number of tickets successfully completed (tracked in the work system).  
+  
+
+**Measure of Success:** Number of tickets successfully completed (tracked in the work system).  
 
 ### **Reflection:**
 Over the course of the summer I successfully completed over 1600 tickets, which does not count the tickets I assigned to other teams, or the phone calls I completed. 
