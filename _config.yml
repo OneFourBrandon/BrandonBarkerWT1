@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Work Term 1 Report"
+title                    : "Work Term Reports"
 title_separator          : "-"
 name                     : &name "Brandon Barker"
 description              : &description "personal description"

@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /wt1/
 title: "Co-op Work Term 1 Report"
 author_profile: true
 redirect_from:
