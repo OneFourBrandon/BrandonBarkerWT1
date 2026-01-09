@@ -6,7 +6,7 @@ redirect_from:
 ---
 
 ## Abstract / Introduction
-During my work term with **Computing & Communications Services (CCS)**, I gained valuable experience in IT support and infrastructure management. I started working this position in May, focusing on help desk, team assignments, and application support, and I am eager to continue my position until the end of my second work term. 
+During my second work term with **Computing & Communications Services (CCS)**, I gained even more valuable experience in IT support and infrastructure management. I started working this position in May, focusing on help desk, team assignments, and application support, and this semester - I primarily focused on taking and receiving most phone calls. 
 
 This page highlights what I accomplished, what I learned, and how this experience contributed to my academic and professional development.
 
@@ -40,69 +40,74 @@ As I iterated earlier, my role primarily involved help desk support, where I ass
 ## Learning Goal 1
 
 <p>
-<img src="images/phone_at_desk.jpg"
+<img src="images/j_car_pizz.png"
 alt="Photo of me sitting at my desk on the phone"
-width="350"
+width="250"
 style="margin-right:40px;border-radius:10px;margin-bottom: 20px;"
 align="left"/>
 </p> 
 
-**Category:** Critical & Creative Thinking – Problem-Solving  
-**Goal:** Help students and faculty solve problems.  
+**Category:** PROFESSIONAL & ETHICAL BEHAVIOUR - Leadership
+
+**Goal:** Keep the team motivated and churning production.
+
 **Action Plan:**
-- Ask clarification questions about each problem.
-- Ensure the client’s issue is fully solved.
-- Confirm the problem is completed before closing the ticket.  
+- Set goals for our team to complete by EOD, such as a ticket count we want to reach by a certain time. 
+- Enhance team productivity by offering rewards such as snacks and drinks if we reach our goals.
   
 
-**Measure of Success:** Number of tickets successfully completed (tracked in the work system).  
+**Measure of Success:**
+We can keep the number of tickets in our Queue consistently low/response times under 3 days (due to weekends).
 
 ### **Reflection:**
-Over the course of the summer I successfully completed over 1600 tickets, which does not count the tickets I assigned to other teams, or the phone calls I completed. 
-<p>
-<img src="images/tickets.png"
-alt="Screenshot of tickets I completed"
-width="300"
-style="margin-left:20px;border-radius:10px;"
-align="right"/>
-</p> 
-This volume of work gave me significant practice in troubleshooting a wide range of technical issues. I learned how important it is to ask the right clarification questions early, as it often saved time for both myself and the client, and I built confidence that I was genuinely helping people and not just pushing tasks forward. This process strengthened my problem-solving abilities and helped me develop a systematic approach to handling technical challenges efficiently, evident by the sheer amount of tickets I was able to complete over just one summer.
+Throughout the semester, we were consistently able to keep our ticket queue low, often times reaching even 0 tickets in the queue by noon. This was achieved by setting goals between ourselves to complete a certain number of tickets by a certain time, and then rewarding ourselves with breakfast, coffee, and even pizza if we reached our goals.
 
 
 ---
 
+
 ## Learning Goal 2
-**Category:** Global Understanding  
-**Goal:** Learn to understand people better.  
+<p>
+<img src="images/workplace.png"
+alt="Screenshot of positive customer surveys"
+width="250"
+align="right" style="margin-right:20px;border-radius:10px;"/>
+</p>
+
+**Category:** COMMUNICATING - Written Communication
+
+**Goal:** Provide more clear and detailed instructions in email communications.
+
 **Action Plan:**
-- Get to know people from different backgrounds.
-- Practice patience with users over the phone or in person.
-- Always approach clients with kindness.  
-  **Measure of Success:** Client satisfaction (if the person leaves the interaction calm and not frustrated, I consider it a success).  
+I always catch myself writing pretty much the bare minimum in emails - just answering the question and hoping they don't have any follow ups. I plan to remedy this by: 
+- Creating more detailed text templates to fill in the missing gaps in my emails.
+- Provide more common information and websites the user can follow which should hopefully answer their follow-up questions.
+
+**Measure of Success:**
+Lower rate of replies to my general tickets - essentially a change in ratio showing my tickets being resolved in less replies.
 
 ### **Reflection:**
-<p align="left">
-<img src="images/Gold_star.png"
-alt="Screenshot of positive customer surveys"
-width="300"
-align="right" />
-</p>
-Over the summer, I was made aware of at least 4 positive surveys from clients I assisted. These surveys highlighted that my patience, friendliness, and willingness to listen left a positive impression on users.
+Throughout the semester, I created several detailed email templates for common issues that users would frequently ask about, including but not limited to a few WebAdvisor issues, Internet Setups (especially with our new Wi-Fi portal for unsupported devices), and some e-transfer issues that would get commonly reported to our queue. These quick and easy replies helped reduce the load on not only me but our team, allowing us to focus on more complex tickets while still providing great quality support to our users without much effort. Although anecdotal evidence, I did notice a significant reduction in follow-up emails from users after implementing these templates, indicating that the additional information provided was effective in addressing their concerns upfront - if there was a follow-up, it was usually just to thank me for the information provided!
 
-I also noticed that even when clients started out frustrated, taking the time to calmly explain solutions and reassure them often turned the interaction around - especially with retirees. Working with people from diverse backgrounds, both over the phone and in person, helped me practice empathy and made me better at supporting clients. Overall, I learned that kindness and patience are just as important as technical skills in providing effective IT support.
 
 ---
 
 
 ## Learning Goal 3
-**Category:** Literacy – Technological Literacy  
-**Goal:** Learn more about the functions of a functional IT department.  
+**Category:** PROFESSIONAL & ETHICAL BEHAVIOUR - Teamwork
+
+**Goal:** Complete the most tickets out of any agent over the last 2 work terms.
+
 **Action Plan:**
-- Understand how the IT department operates from top to bottom.
-- Learn what each part of the department does by managing and assigning tickets.
-- Apply this understanding to broader business contexts.  
-  **Measure of Success:** Successfully assign tickets across multiple departments and spread workload effectively.  
+Keep consistent, pacing myself over the hours and completing both the easy grab tickets, and more complex ones at the same time to be as productive as possible.
+
+**Measure of Success:**
+Run a report and the end of the term and check if I completed the most amount of tickets.  
 ### **Reflection:**
+By the end of the term, I was able to complete a total of ~2000 tickets, which was the highest out of any agent throughout the 8 months I was there - especially considering I was taking calls whenever possible. I achieved this by keeping a steady pace throughout the semester, making sure to complete a few tickets between my phone calls, and focusing my efforts equally on both easy picking tickets and more complex tickets that other agents would be reluctant to take.
+
+---
+
 <p>
 <img src="images/managed_desktops.jpg"
 alt="Picture of a room from another department in CCS (Managed Desktops)"
@@ -110,36 +115,9 @@ width="280"
 align="left" 
 style="margin-right:20px;border-radius:10px;" />
 </p>
-During my work term, I gained a much clearer understanding of how the IT department at CCS operates as a whole. By managing and assigning tickets, I was able to see which issues belonged to which teams and how different groups worked together to resolve problems. This gave me insight into the specialized roles within CCS, such as Managed Desktops, Networking, and Information Security, and how each contributes to keeping the University as a whole from crashing and burning.
-
-This experience also helped me see the difference efficient ticket assignment makes, not only for ensuring problems reach the right team quickly, but also for balancing workloads across the department so, for example, one team wouldn't have to answer every question. By basically becoming this process, I developed a stronger appreciation for the nature of a massive IT environment and how those practices can apply to businesses beyond the university.
 
 
----
 
-
-## Learning Goal 4
-
-**Category:** Global Understanding – Civic Knowledge & Engagement  
-**Goal:** Learn how to work and develop relationships with people of other cultures.  
-
-<p>
-<img src="images/help_desk.jpg"
-alt="Me helping clients at the help desk"
-width="250"
-align="right"
-style="margin-left:20px;border-radius:10px;margin-bottom: 20px;"/>
-</p>
-
-**Action Plan:**
-- Connect with colleagues from diverse backgrounds.
-- Put effort into building meaningful relationships with team members.  
-  **Measure of Success:** Maintain good friendships with coworkers after the work term ends.  
-
-### **Reflection:**
-During my time at CCS, I had the opportunity to work with colleagues from various cultural backgrounds, I was able to connect with them, learning about their experiences and perspectives. This not only enriched my understanding of different cultures but also helped me build meaningful relationships within the team. By engaging in conversations and participating in team activities, I was able to feel right at home with my coworkers throughout the work term, and I am confident this will remain the same way going into the second work term. Overall, this experience taught me the value of diversity in the workplace and how it can enhance collaboration and teamwork.
-
----
 
 ## Job Description
 My role at CCS was Student IT Consultant, Some of my key responsibilities included:
@@ -159,11 +137,13 @@ Some of these skills I had already gained in coursework (e.g., networking and sy
 ---
 
 ## Conclusions
-My work term at CCS was an excellent opportunity to apply classroom knowledge such as AHW's operating systems course in a real-world setting. I learned not only technical skills but also how to communicate effectively in a professional IT environment.  
+My second work term at CCS has been an invaluable experience that has significantly contributed to my professional and personal growth; although I am glad it is over with and want to immediately get back to learning. I don't plan on pursuing a career in IT support in the future, and I am grateful for the hands-on experience and skills I have gained during this time.
+
 If someone were to summarize my experience, I would want them to say:  
-*“This work term gave me hands-on IT support experience, strengthened my technical and professional skills, and helped me grow as a person to see my preferences toward my future career in computing.”*
+*“This work term further enhanced my IT support skills, strengthened my ability to communicate effectively with users, and reinforced my understanding of teamwork in a professional setting. ”*
 
 ---
 
 ## Acknowledgments
-I would like to thank specifically my supervisor Jill Hogg for being the most patient and helpful guide an employee can have, always answering our questions no matter the amount of times asked and the stupidity of the question, to ensure make sure we do our jobs well.
+
+I would like to thank Jill Hogg and the entire CCS team for providing me with this opportunity to grow and learn in a supportive environment. Their guidance and encouragement have been instrumental in my development throughout this work term.
